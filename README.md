@@ -94,8 +94,8 @@ This course content is licensed under [MIT License](LICENSE).
 
 <p align="center">
   <strong>Questions?</strong> Contact the course instructor at [instructor@example.com]<br>
-  <a href="https://twitter.com/yourtwitterhandle"><img src="https://img.shields.io/badge/Twitter-Follow-blue.svg"></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg"></a>
+  <a href="https://x.com/odunayo_rotimi"><img src="https://img.shields.io/badge/Twitter-Follow-blue.svg"></a>
+  <a href="https://www.linkedin.com/in/odunayo-rotimi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg"></a>
 </p>
 
-<!-- Keywords for SEO: academic research tools, AI for researchers, research workflows, AI assistants for academics, Claude AI research, research AI tools, prompt engineering for academics, literature review AI, research productivity tools, AI data analysis for researchers, NotebookLM, Elicit, Semantic Scholar, research presentation AI, academic writing AI -->
+<!-- Keywords for SEO: academic research tools, AI for researchers, research workflows, AI assistants for academics, Claude AI research, research AI tools, prompt engineering for academics, literature review AI, research productivity tools, AI data analysis for researchers, NotebookLM, Elicit, Semantic Scholar, research presentation AI, academic writing AI, claude for researchers, chatgpt for researchers, python for researchers -->
