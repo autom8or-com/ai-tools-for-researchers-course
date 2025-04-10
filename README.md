@@ -93,7 +93,7 @@ This course content is licensed under [MIT License](LICENSE).
 ---
 
 <p align="center">
-  <strong>Questions?</strong> Contact the course instructor at [instructor@example.com]<br>
+  <strong>Questions⁉️</strong> Contact the course instructor on: <br>
   <a href="https://x.com/odunayo_rotimi"><img src="https://img.shields.io/badge/Twitter-Follow-blue.svg"></a>
   <a href="https://www.linkedin.com/in/odunayo-rotimi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg"></a>
 </p>
