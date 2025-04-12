@@ -195,3 +195,96 @@ When encountering inaccurate summaries:
 **Example Improvement:**
 - **Ambiguous search:** author:"J. Smith"
 - **Better search:** author:"J. Smith" AND "University of Michigan" AND "cognitive psychology"
+
+### Problem: Incomplete Author Profiles
+
+**Possible Causes:**
+- Name variants across publications
+- Recent name changes
+- Papers not correctly attributed
+- Multiple profiles for same author
+
+**Solutions:**
+1. **Search for name variants**: Check for different formats or spellings
+2. **Check institutional profiles**: Many researchers list complete publications there
+3. **Look for Google Scholar or ORCID profiles**: May be more complete
+4. **Report missing publications**: Some platforms allow profile corrections
+5. **Check for merged profiles**: Platforms occasionally combine or split profiles
+
+## Integration and Workflow Issues
+
+### Problem: Difficulty Combining Results Across Platforms
+
+**Possible Causes:**
+- Different citation formats
+- Inconsistent metadata
+- Platform export limitations
+- Reference manager compatibility
+
+**Solutions:**
+1. **Use consistent citation identifiers**: DOIs provide the most reliable linking
+2. **Export in standard formats**: BibTeX or RIS work with most reference managers
+3. **Create manual crosswalks**: Document how papers appear across platforms
+4. **Use a reference manager**: Zotero, Mendeley, etc. can help deduplicate
+5. **Develop consistent naming conventions**: For saved searches and collections
+
+**Example Workflow:**
+- Export citations from both platforms in the same format
+- Import to reference manager and use deduplication features
+- Tag papers with source platform for tracking
+
+### Problem: Information Overload
+
+**Possible Causes:**
+- Too many papers to process
+- Inadequate organization
+- Lack of prioritization
+- Feature complexity
+
+**Solutions:**
+1. **Set clear search boundaries**: Limit by date, methodology, or specific focus
+2. **Create a triage system**: Quickly categorize papers as essential/useful/peripheral
+3. **Use progressive summarization**: Start broad, then deep-dive on key papers
+4. **Batch similar papers**: Group by methodology, theoretical approach, etc.
+5. **Document decision criteria**: What makes a paper relevant for your purposes?
+
+**Example Organization:**
+- Create collections for different sub-topics
+- Tag papers with methodological approaches
+- Use a priority rating system (1-3 stars)
+- Set time limits for exploration before synthesis
+
+### Problem: Contradictory Information Across Platforms
+
+**Possible Causes:**
+- Different indexing methodologies
+- Database coverage variations
+- Update frequency differences
+- Metadata inconsistencies
+
+**Solutions:**
+1. **Triangulate important information**: Verify across multiple sources
+2. **Prioritize recency**: More recently updated platforms may have newer information
+3. **Check primary sources**: Always verify against the original publication
+4. **Document discrepancies**: Note differences for methodology transparency
+5. **Consider platform strengths**: Each has areas of better coverage
+
+**Example Approach:**
+- Use Semantic Scholar for citation metrics
+- Use Elicit for content summary
+- Always check the original paper for critical information
+- Document which source provided which information
+
+## When to Try Alternative Tools
+
+Consider supplementing or switching tools when:
+
+1. **Field-specific needs**: Use specialized databases for niche research areas
+2. **Historical research**: Seek tools with better coverage of older literature
+3. **Very recent publications**: Try publisher sites or preprint servers
+4. **Comprehensive systematic reviews**: Use multiple platforms for complete coverage
+5. **Specialized content types**: Consider tools focusing on books, theses, or gray literature
+6. **Visualization needs**: Explore dedicated bibliometric tools
+7. **Programming experience**: Consider API access for custom analysis
+
+Remember that no single tool provides perfect coverage or features. A multi-tool strategy, carefully documented, will yield the most comprehensive and reliable research results.
