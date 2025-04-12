@@ -8,6 +8,7 @@ This session introduces NotebookLM, an AI-powered research notebook tool designe
 ### Presentation and Teaching Resources
 - [Presentation Slides](slides.md): Introduction to NotebookLM and its research applications
 - [Tutorial](tutorial.md): Step-by-step guide to using NotebookLM for research
+- [Best Practices Checklist](best-practices.md): Maximizing effectiveness with NotebookLM
 - [Troubleshooting Guide](troubleshooting.md): Solutions for common challenges
 
 ### Hands-On Practice
